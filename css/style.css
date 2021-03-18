@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+#section-1 {
+    background-image: url(../images/section-1-bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section-2 {
+    background-color: #DACEDB;
+}
+
+#section-3 {
+    background-color: #c44569;
+}
+
+#section-4 {
+    background-color: #3dc1d3;
+}
+
+#heading-main
+{
+    font-size: 25vh;
+    font-family: 'Parisienne', cursive;
+}
+
+#sub-heading-main
+{
+    font-size: 10vh;
+    font-family: 'Parisienne', cursive;
+}
