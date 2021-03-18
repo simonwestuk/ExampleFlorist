@@ -11,6 +11,12 @@
     background-color: #DACEDB;
 }
 
+.img-pos
+{
+    object-fit: none;
+    object-position: bottom;
+}
+
 #section-3 {
     background-color: #c44569;
 }
