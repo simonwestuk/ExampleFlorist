@@ -19,10 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13e176dc-ac4d-4952-97fd-2d97bfde518f" name="Default Changelist" comment="Added in Contact Page and Icons.">
+    <list default="true" id="13e176dc-ac4d-4952-97fd-2d97bfde518f" name="Default Changelist" comment="Added in Gallery.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fullpage.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage.extensions.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/easings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/easings.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/easings.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/scrolloverflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/scrolloverflow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/scrolloverflow.min.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +83,7 @@
       <workItem from="1616062966841" duration="3295000" />
       <workItem from="1616081796145" duration="3094000" />
       <workItem from="1616667659499" duration="3887000" />
-      <workItem from="1616683319833" duration="2340000" />
+      <workItem from="1616683319833" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="Added in Section 2 image and text.">
       <created>1616084032050</created>
@@ -97,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616671067064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added in Gallery.">
+      <created>1616686288816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616686288816</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +135,8 @@
     <MESSAGE value="Added in Section 2 image and text." />
     <MESSAGE value="Added in new Animation." />
     <MESSAGE value="Added in Contact Page and Icons." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added in Contact Page and Icons." />
+    <MESSAGE value="Added in Gallery." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added in Gallery." />
   </component>
   <component name="WindowStateProjectService">
     <state x="583" y="351" key="Github.ShareDialog" timestamp="1616082955860">
@@ -130,9 +147,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="519" y="159" key="Github.UntrackedFilesDialog/0.0.1440.900/-1920.-180.1920.1080/1440.-115.1920.1080@0.0.1440.900" timestamp="1616082963048" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1616671070597">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1616686291293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-180.1920.1080/1440.-115.1920.1080@0.0.1440.900" timestamp="1616671070597" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-180.1920.1080/1440.-115.1920.1080@0.0.1440.900" timestamp="1616686291293" />
   </component>
 </project>
