@@ -1,4 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.navbar-brand {
+    font-family: 'Parisienne', cursive;
+    font-size: 4vh;
+}
+
+.navbar {
+    font-family: 'Courgette', cursive;
+    font-size: 3vh;
+}
+
+
 
 #section-1 {
     background-image: url(../images/section-1-bg.jpg);
