@@ -1,6 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
+* {
+    font-family: 'Courgette', cursive;
+}
+
+.carousel-item {
+    height: 100vh;
+}
+
+.carousel-item img{
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+}
+
 .navbar-brand {
     font-family: 'Parisienne', cursive;
     font-size: 4vh;
@@ -20,7 +34,7 @@
     background-size: cover;
 }
 
-#section-2 {
+#section-2, #section-4, #section-3  {
     background-color: #DACEDB;
 }
 
@@ -30,13 +44,7 @@
     object-position: bottom;
 }
 
-#section-3 {
-    background-color: #c44569;
-}
 
-#section-4 {
-    background-color: #3dc1d3;
-}
 
 #heading-main
 {
